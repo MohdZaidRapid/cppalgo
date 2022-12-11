@@ -1,0 +1,8 @@
+20
+15
+5
+10
+number of elements  in uordered_set 4
+number of elements  in uordered_set size after clear 4
+key found
+number of elements  in uordered_set size after clear 3
